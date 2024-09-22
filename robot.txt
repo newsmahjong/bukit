@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://newsmahjong.github.io/bukit/sitemap.xml
